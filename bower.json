@@ -1,0 +1,26 @@
+{
+    "name": "haier_warmup",
+    "version": "0.0.0",
+    "authors": [
+        "Nick Hsu <nickhsu.tw@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "OwlCarousel": "~1.3.2",
+        "bootstrap": "~3.2.0",
+        "fancybox": "~2.1.5",
+        "html5shiv": "~3.7.2",
+        "jquery-cookie": "~1.4.1",
+        "jquery.iecors": "*",
+        "jquery.smooth-scroll": "~1.4.13",
+        "jquery": "~2.1.1",
+        "respond": "~1.4.2"
+    }
+}
